@@ -1,1 +1,1 @@
-# Email-Sms-Spam-Classifier
+This project is a Machine Learning-based Email/SMS Spam Detection system that classifies messages as 'Spam' or 'Ham' using Natural Language Processing (NLP) techniques. It leverages feature extraction (CountVectorizer/Tfidf) and classification models like Naive Bayes to achieve accurate predictions."
